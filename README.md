@@ -8,3 +8,5 @@
 6. Exit Audio Status <br>
 7. Click the Play button on the bottom right side of the page <br>
 8. Click the Speaker button on the patch to start the synth <br>
+9. Edit values where you see 0 <br>
+10. Use sliders to adjust volume <br>
